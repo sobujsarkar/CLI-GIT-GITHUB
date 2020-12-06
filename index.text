@@ -3,3 +3,9 @@ CLI command:
  howami | uname | hostname| hostname -a | dir | mkdir | mv | cp |
 
  touch | rm -r| rm -rf |cd | cd ..| cd ~| 
+
+ Git command :
+
+ git init | git clone | git add | git commit | git restore --staged " file name" | git config --global user.name "[First name and last name]" |
+ git config --global user.email "[Elmai address]"
+
