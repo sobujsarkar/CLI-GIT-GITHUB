@@ -1,2 +1,7 @@
+<<<<<<< .merge_file_a11740
 I am branch 1
 This file belongs to only branch1
+=======
+I am branch2
+this file belongs to only branch2
+>>>>>>> .merge_file_a12988
