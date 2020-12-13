@@ -31,3 +31,25 @@ Remote repository is server connect. push pull is the comone command remote reps
 * and you have sub point put two spass before the dash or strat
     * like this 
     * like this
+
+### image
+    ![image](download.png)
+
+### Heading 
+```
+ # Big heading
+ ## small heading
+ ###### minimu 6 heading use
+
+```
+### quit 
+    `inline quit` 
+
+    ```
+    `inline quit `
+
+    ```
+    ` list quit `
+    > charecter use before the line
+    > this is peragrap quit
+
