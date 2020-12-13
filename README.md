@@ -43,13 +43,13 @@ Remote repository is server connect. push pull is the comone command remote reps
 
 ```
 ### quit 
-    `inline quit` 
+`inline quit` 
 
-    ```
-    `inline quit `
+ ```
+`inline quit `
 
-    ```
-    ` list quit `
-    > charecter use before the line
-    > this is peragrap quit
+```
+` list quit `
+> charecter use before the line
+> this is peragrap quit
 
