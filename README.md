@@ -20,14 +20,14 @@ Remote repository is server connect. push pull is the comone command remote reps
   1. one
   2. two
   3. three
-  
+
 ### unorder list
   * unorde list use star marke
   * profite
   * github
 
 ### alernatively 
-    - dash work just as will
-    - and you have sub point put two spass before the dash or strat
-      - like this 
-      - like this
+    * dash work just as will
+    * and you have sub point put two spass before the dash or strat
+      * like this 
+      * like this
