@@ -8,3 +8,26 @@ GIT and github all most use . [git](https://github.com) is first repository and 
 
 ## Remote repository 
 Remote repository is server connect. push pull is the comone command remote repsitory
+
+
+# learn markedown
+
+1 **Bold**
+2 *italic*
+3.[link](https://gitgub.com/sobujsarkar)
+4. `list make `
+### order list
+  1. one
+  2. two
+  3. three
+  
+### unorder list
+  * unorde list use star marke
+  * profite
+  * github
+
+### alernatively 
+    - dash work just as will
+    - and you have sub point put two spass before the dash or strat
+      - like this 
+      - like this
