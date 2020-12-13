@@ -50,6 +50,26 @@ Remote repository is server connect. push pull is the comone command remote reps
 
 ```
 ` list quit `
-> charecter use before the line
-> this is peragrap quit
+> charecter use before the line . this is peragrap quit
 
+### code 
+Inline code use backticks 
+EX `var example = true`
+
+learge block code use with four spaces
+    if(awesome){
+        reatun true
+    }
+
+or use backtick
+``` 
+if(awesome){
+    return use backtick
+}
+```
+if your nedd height list code use backtick and language
+``` javascript
+if(aweosome){
+    return highlit 
+}
+```
