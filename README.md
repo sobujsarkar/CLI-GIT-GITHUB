@@ -51,8 +51,8 @@ Remote repository is server connect. push pull is the comone command remote reps
 ```
 ` list quit `
 > charecter use before the line . this is peragrap quit
-``` example :
-    > charecter use before the line . this is peragrap quit
+``` 
+    example : > charecter use before the line . this is peragrap quit
 ```
    
 
